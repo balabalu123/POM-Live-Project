@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="HRM Test Suite">
+  <test name="Pending Request Test">
+    <classes>
+      <class name="org.testCases.TestPendingRequest">
+      </class>
+    </classes>
+  </test> 
+   <test name="User Role Test">
+    <classes>
+     
+      <class name="org.testCases.TestUserRole">
+      </class>
+    </classes>
+  </test>  
+</suite> 
